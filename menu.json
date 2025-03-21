@@ -1,126 +1,140 @@
 {
-  "restaurant": "SAKU Sushi Thai & Hibachi",
-  "categories": [
-    {
-      "name": "Specialty Rolls",
-      "items": [
-        {
-          "name": "Lobster Roll",
-          "price": 20,
-          "ingredients": ["Lobster tempura", "Asparagus", "Cucumber", "Avocado", "Lobster Sauce", "Red Tobiko"],
-          "image": "images/bruschetta.jpg"
-        },
-        {
-          "name": "Crunch Crab (Tempura)",
-          "price": 11,
-          "ingredients": ["Crab Delight", "Avocado", "Crispy Potato", "Spicy Mayo", "Lobster Sauce", "Eel Sauce", "Sriracha"],
-          "image": "images/bruschetta.jpg"
-        },
-        {
-          "name": "Tokyo (Tempura)",
-          "price": 11,
-          "ingredients": ["Shrimp Tempura", "Spicy Tuna", "Avocado", "Cream Cheese", "Spicy Mayo", "Eel Sauce"],
-          "image": "images/bruschetta.jpg"
-        },
-        {
-          "name": "Yum Yum (Tempura)",
-          "price": 11,
-          "ingredients": ["Crab Stick", "Cream Cheese", "Cucumber", "Avocado", "Spicy Mayo", "Eel Sauce", "Crunchy"],
-          "image": "images/bruschetta.jpg"
-        },
-        {
-          "name": "SUKA Signature",
-          "price": 13,
-          "ingredients": ["Salmon", "Bacon", "Seasoned Scallops", "Avocado", "Shredded Crab", "Spicy Mayo", "Eel Sauce"],
-          "image": "images/bruschetta.jpg"
-        }
-      ]
-    },
-    {
-      "name": "Classic Rolls",
-      "items": [
-        {
-          "name": "Godzilla",
-          "price": 10,
-          "ingredients": ["Escolar", "Japanese Tilapia", "Eel Sauce", "Lobster Sauce"]
-        },
-        {
-          "name": "Green Dragon",
-          "price": 11,
-          "ingredients": ["Crab Stick", "Eel", "Cucumber", "Avocado", "Eel Sauce"]
-        },
-        {
-          "name": "Veggie One",
-          "price": 9,
-          "ingredients": ["Sweet Potato", "Asparagus", "Avocado", "Eel Sauce"]
-        },
-        {
-          "name": "Rocky Mount",
-          "price": 12,
-          "ingredients": ["Shrimp Tempura", "Avocado", "Cream Cheese", "Spicy Mayo", "Eel Sauce", "Potato", "Crunchy", "Spring Sauce"]
-        },
-        {
-          "name": "Volcano (Baked)",
-          "price": 12,
-          "ingredients": ["Crabstick", "Avocado", "Cucumber", "Scallops", "Spicy Mayo", "Sriracha", "Eel Sauce"]
-        }
-      ]
-    },
-    {
-      "name": "Signature Selections",
-      "items": [
-        {
-          "name": "Cali Burn",
-          "price": 11,
-          "ingredients": ["Crab Meat Delight", "Cucumber", "Avocado", "Tempura", "Crab", "Eel Sauce", "Lobster Sauce", "Sriracha"]
-        },
-        {
-          "name": "Fort Bragg",
-          "price": 11,
-          "ingredients": ["Spicy Tuna", "White Fish", "Cream Cheese", "Avocado", "Spicy Mayo", "Eel Sauce", "Red Tobiko"]
-        },
-        {
-          "name": "Garden Roll",
-          "price": 10,
-          "ingredients": ["Tuna", "Salmon", "Mix Green", "Avocado", "Cucumber", "Wrap in Seasoned Paper", "Spicy White Sauce"]
-        },
-        {
-          "name": "Corona",
-          "price": 12,
-          "ingredients": ["Spicy Salmon", "Cucumber", "Avocado", "Seared Shrimp", "Jalapeno", "Cilantro", "Ponzu Sauce", "Lobster Sauce", "Sriracha"]
-        }
-      ]
-    },
-    {
-      "name": "Deluxe Rolls",
-      "items": [
-        {
-          "name": "Holy Crab",
-          "price": 11,
-          "ingredients": ["Crabstick", "Avocado", "Crunchy", "Spicy Mayo", "Red Tobiko"]
-        },
-        {
-          "name": "Fantasy",
-          "price": 12,
-          "ingredients": ["Crab Stick", "Crunchy", "Avocado", "Salmon", "Red Tobiko", "Eel Sauce", "Spicy Mayo"]
-        },
-        {
-          "name": "Crazy Salmon",
-          "price": 12,
-          "ingredients": ["Cucumber", "Spicy Salmon", "Seared Salmon", "Lobster Sauce", "Red Tobiko"]
-        },
-        {
-          "name": "Pink Lady",
-          "price": 11,
-          "ingredients": ["Spicy Tuna", "Avocado", "Crab Stick", "Crunchy", "Spicy Mayo", "Eel Sauce", "Red Tobiko"]
-        },
-        {
-          "name": "Surf & Turf",
-          "price": 14,
-          "ingredients": ["Shrimp Tempura", "Cucumber", "Seared Steak", "Spicy Mayo", "Eel Sauce", "Scallion"]
-        }
-      ]
-    }
-  ],
-  "disclaimer": "Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions."
-}
+    "restaurant": "SAKU Sushi Thai & Hibachi",
+    "categories": [
+      {
+        "name": "Specialty Rolls",
+        "items": [
+          {
+            "name": "Lobster Roll",
+            "price": 20,
+            "ingredients": ["Lobster tempura", "Asparagus", "Cucumber", "Avocado", "Lobster Sauce", "Red Tobiko"],
+            "image": "images/extracted/Lobster_Roll.jpg"
+          },
+          {
+            "name": "Crunch Crab (Tempura)",
+            "price": 11,
+            "ingredients": ["Crab Delight", "Avocado", "Crispy Potato", "Spicy Mayo", "Lobster Sauce", "Eel Sauce", "Sriracha"],
+            "image": "images/extracted/Crunch_Crab.jpg"
+          },
+          {
+            "name": "Tokyo (Tempura)",
+            "price": 11,
+            "ingredients": ["Shrimp Tempura", "Spicy Tuna", "Avocado", "Cream Cheese", "Spicy Mayo", "Eel Sauce"],
+            "image": "images/extracted/Tokyo.jpg"
+          },
+          {
+            "name": "Yum Yum (Tempura)",
+            "price": 11,
+            "ingredients": ["Crab Stick", "Cream Cheese", "Cucumber", "Avocado", "Spicy Mayo", "Eel Sauce", "Crunchy"],
+            "image": "images/extracted/Yum_Yum.jpg"
+          },
+          {
+            "name": "SUKA Signature",
+            "price": 13,
+            "ingredients": ["Salmon", "Bacon", "Seasoned Scallops", "Avocado", "Shredded Crab", "Spicy Mayo", "Eel Sauce"],
+            "image": "images/extracted/SUKA_Signatur.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Classic Rolls",
+        "items": [
+          {
+            "name": "Godzilla",
+            "price": 10,
+            "ingredients": ["Escolar", "Japanese Tilapia", "Eel Sauce", "Lobster Sauce"],
+            "image": "images/extracted/Godzilla.jpg"
+          },
+          {
+            "name": "Green Dragon",
+            "price": 11,
+            "ingredients": ["Crab Stick", "Eel", "Cucumber", "Avocado", "Eel Sauce"],
+            "image": "images/extracted/Green_Dragon.jpg"
+          },
+          {
+            "name": "Veggie One",
+            "price": 9,
+            "ingredients": ["Sweet Potato", "Asparagus", "Avocado", "Eel Sauce"],
+            "image": "images/extracted/Veggie_One.jpg"
+          },
+          {
+            "name": "Rocky Mount",
+            "price": 12,
+            "ingredients": ["Shrimp Tempura", "Avocado", "Cream Cheese", "Spicy Mayo", "Eel Sauce", "Potato", "Crunchy", "Spring Sauce"],
+            "image": "images/extracted/Rocky_Mount.jpg"
+          },
+          {
+            "name": "Volcano (Baked)",
+            "price": 12,
+            "ingredients": ["Crabstick", "Avocado", "Cucumber", "Scallops", "Spicy Mayo", "Sriracha", "Eel Sauce"],
+            "image": "images/extracted/Volcano.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Signature Selections",
+        "items": [
+          {
+            "name": "Cali Burn",
+            "price": 11,
+            "ingredients": ["Crab Meat Delight", "Cucumber", "Avocado", "Tempura", "Crab", "Eel Sauce", "Lobster Sauce", "Sriracha"],
+            "image": "images/extracted/Signature_Selections.jpg"
+          },
+          {
+            "name": "Fort Bragg",
+            "price": 11,
+            "ingredients": ["Spicy Tuna", "White Fish", "Cream Cheese", "Avocado", "Spicy Mayo", "Eel Sauce", "Red Tobiko"],
+            "image": "images/extracted/Fort_Bragg.jpg"
+          },
+          {
+            "name": "Garden Roll",
+            "price": 10,
+            "ingredients": ["Tuna", "Salmon", "Mix Green", "Avocado", "Cucumber", "Wrap in Seasoned Paper", "Spicy White Sauce"],
+            "image": "images/extracted/Garden_Roll.jpg"
+          },
+          {
+            "name": "Corona",
+            "price": 12,
+            "ingredients": ["Spicy Salmon", "Cucumber", "Avocado", "Seared Shrimp", "Jalapeno", "Cilantro", "Ponzu Sauce", "Lobster Sauce", "Sriracha"],
+            "image": "images/extracted/Corona.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Deluxe Rolls",
+        "items": [
+          {
+            "name": "Holy Crab",
+            "price": 11,
+            "ingredients": ["Crabstick", "Avocado", "Crunchy", "Spicy Mayo", "Red Tobiko"],
+            "image": "images/extracted/Deluxe_Rolls.jpg"
+          },
+          {
+            "name": "Fantasy",
+            "price": 12,
+            "ingredients": ["Crab Stick", "Crunchy", "Avocado", "Salmon", "Red Tobiko", "Eel Sauce", "Spicy Mayo"],
+            "image": "images/extracted/Fantasy.jpg"
+          },
+          {
+            "name": "Crazy Salmon",
+            "price": 12,
+            "ingredients": ["Cucumber", "Spicy Salmon", "Seared Salmon", "Lobster Sauce", "Red Tobiko"],
+            "image": "images/extracted/Crazy_Salmon.jpg"
+          },
+          {
+            "name": "Pink Lady",
+            "price": 11,
+            "ingredients": ["Spicy Tuna", "Avocado", "Crab Stick", "Crunchy", "Spicy Mayo", "Eel Sauce", "Red Tobiko"],
+            "image": "images/extracted/Pink_Lady.jpg"
+          },
+          {
+            "name": "Surf & Turf",
+            "price": 14,
+            "ingredients": ["Shrimp Tempura", "Cucumber", "Seared Steak", "Spicy Mayo", "Eel Sauce", "Scallion"],
+            "image": "images/extracted/Surf_and_Turf.jpg"
+          }
+        ]
+      }
+    ],
+    "disclaimer": "Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions."
+  }
